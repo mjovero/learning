@@ -39,7 +39,6 @@ The project currently contains **102 Dataform actions**:
 - [Backfills and recovery](#backfills-and-recovery)
 - [Testing and validation](#testing-and-validation)
 - [Operational runbook](#operational-runbook)
-- [Known issues and recommended improvements](#known-issues-and-recommended-improvements)
 - [Release checklist](#release-checklist)
 
 ---
